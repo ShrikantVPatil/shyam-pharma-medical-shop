@@ -1,0 +1,30 @@
+# Python environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+env/
+
+# Admin creation script
+backend/create_admin.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node.js dependencies
+node_modules/
+
+# Build files
+dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+!.env.example
