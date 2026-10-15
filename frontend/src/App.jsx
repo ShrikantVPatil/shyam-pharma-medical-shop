@@ -38,6 +38,7 @@ import {
 import './App.css';
 
 const API = import.meta.env.VITE_API_URL;
+console.log('Backend URL:', API);
 const money = (n) =>
   new Intl.NumberFormat('en-IN', {
     style: 'currency',
@@ -257,7 +258,8 @@ function App() {
       body.set('username', login.username);
       body.set('password', login.password);
 
-      const response = await fetch(`${API}/auth/login`, {
+      const response = await fetch(`${API}/auth/login`,
+       {
         method: 'POST',
         headers: {
           'Content-Type':
