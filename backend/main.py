@@ -14,11 +14,11 @@ from backend.billing import router as billing_router
 from backend.reports import router as reports_router
 
 app = FastAPI()
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
+        "https://shyam-pharma-medical-shop.onrender.com"
     ],
     allow_credentials=True,
     allow_methods=["*"],
