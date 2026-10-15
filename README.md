@@ -1,10 +1,10 @@
-SHYAM PHARMA — Medical Shop Management System
+**SHYAM PHARMA — Medical Shop Management System**
 
 A full-stack web application designed to simplify medical store operations, including medicine management, inventory tracking, sales, billing, and reporting.
 
-🌐 Live Demo: SHYAM PHARMA
+**🌐 Live Demo: SHYAM PHARMA**
 
-📌 About the Project
+**📌 About the Project**
 
 SHYAM PHARMA is a Medical Shop Management System built to manage essential pharmacy operations through a single web application.
 
@@ -12,7 +12,7 @@ The project focuses on organizing medicine records, tracking stock, processing s
 
 This application is deployed online, making it accessible through a web browser without requiring local installation.
 
-✨ Features
+**✨ Features**
 Dashboard: View key information about medical store operations.
 Medicine Management: Add, view, update, and manage medicine records.
 Inventory Management: Track stock quantities and inventory information.
@@ -22,7 +22,8 @@ Reports: View sales information and business summaries.
 Authentication: Secure login for authorized staff.
 Cloud Database: Store application data in a hosted MySQL database.
 Responsive Interface: Access the application through a modern web browser.
-🛠️ Technology Stack
+
+**🛠️ Technology Stack**
 Technology	Purpose
 React	Frontend user interface
 FastAPI	Backend API and business logic
@@ -33,7 +34,8 @@ JWT	Authentication tokens
 Git & GitHub	Version control and source code management
 Render	Frontend and backend hosting
 Aiven	Hosted MySQL database
-🏗️ Application Architecture
+
+**🏗️ Application Architecture**
 
 The application follows a frontend–backend–database architecture.
 
@@ -46,7 +48,7 @@ Request flow:
 
 User → React Frontend → FastAPI Backend → MySQL Database
 
-🚀 Live Application
+**🚀 Live Application**
 
 Try the deployed application:
 
@@ -110,17 +112,17 @@ Understanding how sales affect stock quantities.
 Deploying a full-stack application to cloud hosting platforms.
 Debugging errors and configuring communication between frontend and backend.
 Using Git and GitHub to manage and publish source code.
-💭 My Development Journey
+**💭 My Development Journey**
 
-SHYAM PHARMA is my first working full-stack project, and it has been an important learning experience for me.
+**SHYAM PHARMA is my first working full-stack project, and it has been an important learning experience for me.**
 
-I used ChatGPT as a learning and development assistant throughout the process. It helped me understand concepts, work through errors, and connect different parts of the application. I also invested my own time in implementing the features, testing the application, troubleshooting problems, and learning how the components work together.
+**I used ChatGPT as a learning and development assistant throughout the process. It helped me understand concepts, work through errors, and connect different parts of the application. I also invested my own time in implementing the features, testing the application, troubleshooting problems, and learning how the components work together.**
 
-One of the most valuable parts of this experience was understanding not only how to write code, but also how the frontend, backend, database, and deployment process work together to create a functioning application.
+**One of the most valuable parts of this experience was understanding not only how to write code, but also how the frontend, backend, database, and deployment process work together to create a functioning application.**
 
-I genuinely enjoyed the process, including the challenges and debugging along the way. This project has motivated me to continue learning, improving my skills, and building more applications.
+**I genuinely enjoyed the process, including the challenges and debugging along the way. This project has motivated me to continue learning, improving my skills, and building more applications.**
 
-This is the beginning of my development journey, not the end. I plan to keep learning, add improvements, and share more projects here as I grow as a developer.
+**This is the beginning of my development journey, not the end. I plan to keep learning, add improvements, and share more projects here as I grow as a developer.**
 
 🔮 Future Improvements
 
@@ -134,9 +136,9 @@ Automated testing and additional validation.
 Further improvements to security and user experience.
 👨‍💻 Developer
 
-Mr. Shrikant Patil
+***Mr. Shrikant Patil***
 
-This project represents my first major step toward building practical, full-stack applications and learning through hands-on development.
+***This project represents my first major step toward building practical, full-stack applications and learning through hands-on development.***
 
 If you explore this project, feedback and suggestions are welcome!
 
